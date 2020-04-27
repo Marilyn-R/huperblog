@@ -16,6 +16,12 @@ body
     margin: 0;
     padding: 0.5em;
 }
+#cora
+{
+width: 25px;
+vertical-align: middle;
+
+}
 #cabecerita #tagline
 {
     padding: 0 0 0 1em;
@@ -35,3 +41,10 @@ body
 {
     font-size: 20px;
 }
+#footer
+{
+    background: #cc62b5;
+    color: white;
+    text-align: center;
+}
+
