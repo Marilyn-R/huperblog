@@ -19,8 +19,17 @@ body
 }
 #cabecerita #logo
 {
-    width: 60px;
+    width: 45px;
     vertical-align: middle;
+}
+
+#cora
+{
+    width: 25px;
+}
+#cora1
+{
+    width: 25px;
 }
 #cabecerita #tagline
 {
@@ -47,3 +56,12 @@ background: whitesmoke;
 padding: 1em;
 
 }
+#footer
+{
+    background: #5a64f1;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
