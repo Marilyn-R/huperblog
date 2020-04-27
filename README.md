@@ -8,6 +8,8 @@ Un blog para aprender
 
 ------------
 Marilyn Arlette 
+Marilyn Arlette incluye ciertas caracteristicas
+Disponible ya
 
 Un Cactus Suaviza Mis Yemas Con Su Piel 
 Tiene 100 AñOs SóLo Florece Una Vez
